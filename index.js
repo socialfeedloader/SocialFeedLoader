@@ -15,5 +15,5 @@ app.route('/*').get(function(req, res) {
 
 server.listen(7000, function() {
 
-    console.log('server running on port 8000');
+    console.log('server running on port 7000');
 })
